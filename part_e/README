@@ -1,0 +1,16 @@
+This is HW3 of Information Security
+It is about using OpenSSL cryptography
+
+part_d sha-256 of my id first 8 hex(ee72b8f3)
+
+
+part_e:
+the main function takes arguments from the cli and are initialized
+each tag is matched to their corresponding filenames
+
+if the mode is enc:
+
+
+if the mode is dec:
+
+
